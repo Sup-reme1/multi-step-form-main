@@ -58,7 +58,7 @@ body{
     background-image: url('./assets/images/bg-sidebar-desktop.svg');
     padding: var(--padding);
     background-repeat: no-repeat;
-    background-size: contain;    
+    background-size: cover;    
     background-position: center;
 }
 
